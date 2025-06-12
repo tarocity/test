@@ -1,3 +1,5 @@
 toignore/
 
-/igrepo
+igrepo/
+
+newig/
